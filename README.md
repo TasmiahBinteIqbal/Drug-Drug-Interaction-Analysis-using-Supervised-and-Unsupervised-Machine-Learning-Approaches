@@ -1,6 +1,5 @@
 # Drug-Drug-Interaction-Analysis-using-Supervised-and-Unsupervised-Machine-Learning-Approaches
 
-Overview
 This project focuses on analyzing drug-drug interactions (DDIs) using both supervised and unsupervised machine learning techniques. The goal is to identify patterns in drug interactions and evaluate how different models perform in classification and clustering tasks.
 
 Objectives
